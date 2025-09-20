@@ -9,7 +9,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "Key System",
         Description = "Vui lòng nhập key khi vào script :D",
-        KeyLink = "",
+        KeyLink = "https://vi.anotepad.com/notes/rpy5sdag",
         Keys = {"200529"},
         Notifi = {
         Notifications = true,

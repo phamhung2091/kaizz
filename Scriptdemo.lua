@@ -9,7 +9,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         KeySystem = true,
         Title = "Key System",
         Description = "Vui lòng nhập key khi vào script :D",
-        KeyLink = "https://vi.anotepad.com/notes/rpy5sdag",
+        KeyLink = "https://direct-link.net/1400203/u0QCZJndBQmQ",
         Keys = {"200529"},
         Notifi = {
         Notifications = true,
@@ -39,4 +39,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Cyborg883/FakeDash/refs/heads/main/Protected_5833389828844912.lua"))()
   end
+  })
+    AddButton(Tab1o, {
+     Name = "Đang update-Waiting for new update",
+    Callback = function()
+	  wait update
   })

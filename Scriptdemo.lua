@@ -8,7 +8,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Key = {
         KeySystem = true,
         Title = "Key System",
-        Description = "Vui lòng nhập key khi vào script :D",
+        Description = "Vui lòng nhập key trước khi vào script:3",
         KeyLink = "https://direct-link.net/1400203/u0QCZJndBQmQ",
         Keys = {"200529"},
         Notifi = {
@@ -44,4 +44,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
      Name = "GOKU ANIMATION",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/IdkRandomUsernameok/PublicAssets/refs/heads/main/Releases/MUI.lua"))()
+		end
   })

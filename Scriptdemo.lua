@@ -41,7 +41,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   end
   })
     AddButton(Tab1o, {
-     Name = "Đang update-Waiting for new update",
+     Name = "GOKU ANIMATION",
     Callback = function()
-	  wait update
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/IdkRandomUsernameok/PublicAssets/refs/heads/main/Releases/MUI.lua"))()
   })

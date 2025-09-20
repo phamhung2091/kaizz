@@ -8,7 +8,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Key = {
         KeySystem = true,
         Title = "Key System",
-        Description = "",
+        Description = "Vui lòng nhập key khi vào script :D",
         KeyLink = "",
         Keys = {"200529"},
         Notifi = {
